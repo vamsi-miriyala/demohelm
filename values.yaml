@@ -1,6 +1,6 @@
 images:
   repository: ghcr.io/onegamegamerinc
-  tag: 1.15.1
+  tag: v1.6.31
   pullPolicy: IfNotPresent
 demo:
   name:
